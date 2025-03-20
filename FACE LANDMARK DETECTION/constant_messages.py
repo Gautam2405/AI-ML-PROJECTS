@@ -1,0 +1,25 @@
+INPUT_IMAGE = "Give Image Location : "
+RESIZED_WINDOW = "Resized_Window"
+
+INPUT_VIDEO = "Give Video Location: "
+FPS = "FPS"
+
+MY_VIDEO_CAPTURE = "my video capture"
+Q = "q"
+
+CHOICE = f"Enter Your Choice : \n1.Video\n2.Image\n3.Webcam\n"
+INVALID_CHOICE = "Invald choice."
+INVALID_INPUT = "Invalid input."
+
+STREAMLIT_TITLE = "Streamlit WebCam App"
+SELECT_OPTION = "Select an option"
+WEBCAM = "webcam"
+IMAGE = "image"
+VIDEO = "video"
+WEB_TITLE = "Webcam Display Steamlit App"
+WEB_CAPTION = "Powered by OpenCV, Streamlit"
+STOP = "Stop"
+CHOOSE_IMAGE_FILE = "Choose a image file"
+JPG = "jpg"
+UPLOAD_VIDEO = "upload a video."
+MAIN = "__main__"
